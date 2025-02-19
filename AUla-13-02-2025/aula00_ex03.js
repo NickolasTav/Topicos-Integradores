@@ -28,6 +28,6 @@ class Produto {
   }
 }
 
-const guarana = new Produto("guarana", 7.49, 983);
+ex const guarana = new Produto("guarana", 7.49, 983);
 
 console.log(guarana.exibirInformacoes());
